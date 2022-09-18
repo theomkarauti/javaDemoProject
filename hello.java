@@ -12,6 +12,8 @@ class hello
 		System.out.println("hello called 5");
 		System.out.println("hello called 6");
 	        System.out.println("Localhost called.....!!");
+		
+	        System.out.println("Localhost called.....!!");
 	
 	}
 
